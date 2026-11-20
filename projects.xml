@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<passion_projects>
+
+    <project>
+        <title>Books I Read and My Recommendations</title>
+        <description>
+            A vlog where I showcase the books I have already read,
+            share my favorite stories, and recommend books from
+            different genres.
+        </description>
+        <date>2026-08-20</date>
+    </project>
+
+    <project>
+        <title>My Travel in Bangkok</title>
+        <description>
+            A travel vlog where I share my favorite places in
+            Bangkok, food recommendations, shopping experiences,
+            expenses, and my overall rating of the whole trip.
+        </description>
+        <date>2026-03-20</date>
+    </project>
+
+    <project>
+        <title>Solo Date Adventures</title>
+        <description>
+            A vlog about my solo date experiences, including
+            dining alone at a restaurant, playing in an arcade,
+            singing karaoke, buying flowers for myself, watching
+            movies in the cinema alone, and taking photos.
+        </description>
+        <date>2026-06-01</date>
+    </project>
+
+</passion_projects>
+
